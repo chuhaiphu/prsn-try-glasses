@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bc62-react-try-glasses/static/css/main.eb601bab.css",
-    "main.js": "/bc62-react-try-glasses/static/js/main.116eb178.js",
-    "static/js/453.05cbe401.chunk.js": "/bc62-react-try-glasses/static/js/453.05cbe401.chunk.js",
-    "index.html": "/bc62-react-try-glasses/index.html",
-    "main.eb601bab.css.map": "/bc62-react-try-glasses/static/css/main.eb601bab.css.map",
-    "main.116eb178.js.map": "/bc62-react-try-glasses/static/js/main.116eb178.js.map",
-    "453.05cbe401.chunk.js.map": "/bc62-react-try-glasses/static/js/453.05cbe401.chunk.js.map"
+    "main.css": "/prsn-try-glasses/static/css/main.eb601bab.css",
+    "main.js": "/prsn-try-glasses/static/js/main.760e0c01.js",
+    "static/js/453.05cbe401.chunk.js": "/prsn-try-glasses/static/js/453.05cbe401.chunk.js",
+    "index.html": "/prsn-try-glasses/index.html",
+    "main.eb601bab.css.map": "/prsn-try-glasses/static/css/main.eb601bab.css.map",
+    "main.760e0c01.js.map": "/prsn-try-glasses/static/js/main.760e0c01.js.map",
+    "453.05cbe401.chunk.js.map": "/prsn-try-glasses/static/js/453.05cbe401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb601bab.css",
-    "static/js/main.116eb178.js"
+    "static/js/main.760e0c01.js"
   ]
 }
